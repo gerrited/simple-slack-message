@@ -3,7 +3,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 
-namespace simple_slack_message {
+namespace simple_slack_message.Services {
     public class SlackMessageService{
         private string Url { get; }
 
